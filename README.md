@@ -1,15 +1,18 @@
 <h1 align="center">Hi 👋, I'm Abu Syed Sujon</h1>
-<h3 align="center">A passionate Python, Django & Machine Learning developer from Bangladesh</h3>
+<h3 align="center">Python & Machine Learning Developer | Aspiring Backend Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abu-syed-sujon&label=Profile%20views&color=0e75b6&style=flat" alt="abu-syed-sujon" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=abu-syed-sujon&label=Profile%20views&color=0e75b6&style=flat" alt="abu-syed-sujon" />
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abu-syed-sujon" alt="abu-syed-sujon" /></a> </p>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abu-syed-sujon" alt="abu-syed-sujon" /></a>
+</p>
 
-- 🔭 I’m currently working on **Image Segmentation using advanced machine learning model.**
+- 🔭 Currently working on **Image Segmentation with advanced ML models**  
+- 🌱 Learning **Django REST Framework** to build scalable backend systems  
+- 💬 Ask me about **Python, Machine Learning, and Backend Development**
 
-- 🌱 I’m currently learning **Django Rest Framework**
-
-- 💬 Ask me about **Python, Machine Learning**
 
 - 📫 How to reach me **sujon.cse.bu@gmail.com**
 
