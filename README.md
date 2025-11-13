@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **sujon.cse.bu@gmail.com**
 
-- 📄 Know about my experiences [https://mybdjobs.bdjobs.com/mybdjobs/masterview.asp]([https://www.linkedin.com/in/abu-syed-sujon/])
+- 📄 Know about my experiences [[https://www.linkedin.com/in/abu-syed-sujon/]]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
